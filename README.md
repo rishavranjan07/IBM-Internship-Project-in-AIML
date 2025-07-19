@@ -1,4 +1,4 @@
-# Salary Prediction Web Application
+# Employee Salary Prediction
 
 ## Features
 
